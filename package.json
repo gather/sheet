@@ -26,6 +26,11 @@
     "rework": "^0.20.2",
     "rework-vars": "^3.0.0",
     "autoprefixer": "^1.1.20140410",
-    "rework-inherit": "^0.2.1"
+    "rework-inherit": "^0.2.1",
+    "rework-calc": "^0.2.1",
+    "rework-breakpoints": "^0.6.0",
+    "rework-parent": "0.0.1",
+    "rework-modules": "^0.1.10",
+    "event-stream": "^3.1.5"
   }
 }
