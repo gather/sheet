@@ -22,15 +22,15 @@
   },
   "homepage": "https://github.com/gather/sheet",
   "dependencies": {
+    "autoprefixer": "^1.1.20140512",
     "css-whitespace": "^1.1.0",
-    "rework": "^0.20.2",
-    "rework-vars": "^3.0.0",
-    "autoprefixer": "^1.1.20140410",
-    "rework-inherit": "^0.2.1",
-    "rework-calc": "^0.2.1",
+    "event-stream": "^3.1.5",
+    "rework": "^0.20.3",
     "rework-breakpoints": "^0.6.0",
-    "rework-parent": "0.0.1",
+    "rework-calc": "^0.2.2",
+    "rework-inherit": "^0.2.2",
     "rework-modules": "^0.1.10",
-    "event-stream": "^3.1.5"
+    "rework-parent": "0.0.1",
+    "rework-vars": "^3.0.0"
   }
 }
