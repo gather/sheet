@@ -1,6 +1,6 @@
 {
   "name": "sheet",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "CSS preprocessing library built upon Rework",
   "main": "index.js",
   "scripts": {
