@@ -23,11 +23,14 @@
   "homepage": "https://github.com/gather/sheet",
   "dependencies": {
     "autoprefixer": "2.0.0",
+    "chalk": "0.4.0",
+    "css": "2.0.0",
     "css-whitespace": "1.1.0",
     "event-stream": "3.1.5",
     "rework": "1.0.0",
     "rework-calc": "1.0.0",
     "rework-inherit": "0.2.2",
+    "rework-npm": "1.0.0",
     "rework-vars": "3.1.1"
   }
 }
