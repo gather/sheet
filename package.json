@@ -2,7 +2,7 @@
   "name": "sheet",
   "version": "0.1.0",
   "description": "CSS preprocessing library built upon Rework",
-  "main": "index.js",
+  "main": "lib/sheet.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
